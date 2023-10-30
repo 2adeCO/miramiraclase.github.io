@@ -1,5 +1,6 @@
 body{
     background-image: url(https://img2.rtve.es/im/3780242/?w=900);
+    background-repeat: repeat-y;
 }
 h1 {
     color: green;
@@ -7,12 +8,13 @@ h1 {
     font-family: 'Comic Sans MS';
     background-color: burlywood; 
     display: block;
+    block-size: 0%;
     opacity: 0.9;
 }
 p {
     color: black;
-    background-color: rgba(230, 20, 150, 0.7)
+    background-color: rgba(255, 255, 255, 0.7)
 }
-.miau {
-    background-repeat: repeat-y;
+.bloque {
+    block-size: 0%;
 }
