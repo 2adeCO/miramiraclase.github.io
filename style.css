@@ -13,3 +13,6 @@ p {
     color: black;
     background-color: rgba(230, 20, 150, 0.7)
 }
+.miau {
+    background-repeat: repeat-y;
+}
